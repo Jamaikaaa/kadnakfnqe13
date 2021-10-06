@@ -1,5 +1,4 @@
 {
-  "token": process.env.tokens,
   "prefix": "-",
   "ksoftapi": "",
   
